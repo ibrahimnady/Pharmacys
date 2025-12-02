@@ -1,22 +1,21 @@
 # 💊 Pharmacy Sales Dashboard (Power BI)
 
 ## 📌 Overview
-This interactive **Power BI dashboard** provides a complete analytical view of pharmacy performance, covering **sales, cost, profit, refunds, discounts, suppliers, customers, and drugs** across multiple years and quarters.  
-The dashboard enables fast decision-making using dynamic filters and visual breakdowns.
+This project presents an interactive Power BI dashboard that delivers a comprehensive analysis of pharmacy-related sales, costs, suppliers, customers, and product performance. The dashboard visualizes key business metrics and trends across multiple years, enabling data‑driven decision‑making and improved operational insights.
 
 ---
 
 ## 🚀 Key Highlights
 | Metric | Value | Description |
 |--------|-------|-------------|
-| **Total Sales** | 28.77M | Overall revenue generated |
-| **Total Cost** | 13.84M | Total operational and purchase cost |
-| **Net Profit** | 14.64M | Profit after subtracting cost |
+| **Total Sales** | 28.87M | Overall revenue generated |
+| **Total Cost** | 13.81M | Total operational and purchase cost |
+| **Net Profit** | 14.66M | Profit after subtracting cost |
 | **Drugs Sales** | 606K | Sales related to drug items |
-| **Refund** | 298.10K | Total refunded amount |
+| **Refund** | 297.43K | Total refunded amount |
 | **Drugs Count** | 6K | Total number of drugs sold |
 | **Total Discount** | 93.10K | Discounts applied to invoices |
-| **Average Bill** | 9.90K | Average bill per customer |
+| **Average Bill** | 10K | Average bill per customer |
 
 ---
 
@@ -26,7 +25,7 @@ The dashboard enables fast decision-making using dynamic filters and visual brea
 - Q3 leads with **11.6M** in sales  
 - Q2 shows **7.6M**  
 - Q4 drops to **5.0M**  
-- Q1 closes with **4.6M**
+- Q1 closes with **4.7M**
 
 The pattern indicates strong seasonal effects, with peaks in Q3.
 
@@ -34,16 +33,16 @@ The pattern indicates strong seasonal effects, with peaks in Q3.
 
 ### 🥧 Sales vs Refund
 A pie chart showing:
-- **Sales: 98.97%**
-- **Refund: 1.03%**
+- **Sales: 98.98%**
+- **Refund: 1.02%**
 
 Refunds represent a very small portion of total sales.
 
 ---
 
 ### 🧍 Supply vs Customers
-- **Customers: 278 (66%)**  
-- **Suppliers: 142 (34%)**  
+- **Customers: 142 (80.68%)**  
+- **Suppliers: 34 (19.32%)**  
 
 Healthy customer-to-supplier ratio.
 
@@ -85,7 +84,7 @@ Seasonal spikes suggest increased demand mid-year.
 ---
 
 ## 📎 Dashboard Preview
-![Dashboard](./OverView.png)
+![Dashboard](./Overview.png)
 
 ---
 
