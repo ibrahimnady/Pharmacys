@@ -84,7 +84,7 @@ Seasonal spikes suggest increased demand mid-year.
 ---
 
 ## 📎 Dashboard Preview
-![Dashboard](./Overview.png)
+![Dashboard](./OverView.png)
 
 ---
 
